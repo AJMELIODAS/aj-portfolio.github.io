@@ -181,6 +181,7 @@ span {
     background-color: var(--menu-color);
     border-radius: 10px;
     transition: background-color 500ms ease-in-out;
+    border: none;
   }
   .item:hover a {
     color: var(--white);
