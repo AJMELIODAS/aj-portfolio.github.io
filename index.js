@@ -144,7 +144,7 @@ windows.forEach((win) => {
 console.log("Total height:", cout);
 
 window.addEventListener("resize", () => {
-  window.location.reload();
+  //window.location.reload();
   homeWindow = document.getElementById("Home");
   aboutWindow = document.getElementById("About");
   workWindow = document.getElementById("Work");
