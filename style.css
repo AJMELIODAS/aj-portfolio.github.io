@@ -854,8 +854,8 @@ footer {
   padding-left: 50%;
   padding-top: 0;
 }
-.baselinks a{
-  color:var(--color);
+.baselinks ul li a{
+  color:var(--menu-color);
 }
 .baselinks :hover {
   color: var(--contrast-color);
