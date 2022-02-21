@@ -903,6 +903,9 @@ footer {
   left: -30px;
   background-color: var(--menu-color);
 }
+ .baselinks a{
+    color:var(--menu-color);
+  }
 
 /* Decorating Connect ends here */
 
@@ -1027,9 +1030,7 @@ footer {
     align-items: baseline;
     margin-bottom: 50px;
   }
-  .baselinks a{
-    color:var(--menu-color);
-  }
+ 
   .exp:nth-child(odd) {
     /* background-color: red; */
     flex-direction: column-reverse;
