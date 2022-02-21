@@ -83,6 +83,7 @@ ul {
 
 a {
   text-decoration: none;
+  color:var(--menu-color);
 }
 
 /* Decorating Nav bar and sticky begains */
