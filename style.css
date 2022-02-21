@@ -664,6 +664,9 @@ a {
   align-items: center;
   flex-wrap: wrap;
 }
+.exp:nth-child(odd){
+ flex-direction :row-reverse;
+}
 .exp:hover .exptext {
   background-color: var(--contrast-color);
   color: var(--white);
