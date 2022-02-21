@@ -1027,7 +1027,9 @@ footer {
     align-items: baseline;
     margin-bottom: 50px;
   }
-
+  .baselinks a{
+    color:var(--menu-color);
+  }
   .exp:nth-child(odd) {
     /* background-color: red; */
     flex-direction: column-reverse;
